@@ -10,6 +10,7 @@ generate_btn.addEventListener('click', GeneratePassword);
 const copy_btn = document.querySelector("#copy");
 copy_btn.addEventListener('click', CopyPassword);
 
+
 const uppercase_chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const lowercase_chars = "abcdefghijklmnopqrstuvwxyz";
 const numbers_chars = "0123456789";
